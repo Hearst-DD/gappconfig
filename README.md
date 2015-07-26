@@ -1,14 +1,14 @@
-# GappConfig: Simple environment config loader
+## GappConfig: Simple environment config loader
 
 GappConfig is a simple way to load config parameters from environment variables. It is designed to be invoked by a service at startup. 
 
-# Install
+## Install
 
 ```bash
 go get github.com/Hearst-DD/gappconfig
 ```
 
-# Use
+## Use
 
 ```go
 import "github.com/Hearst-DD/gappconfig"
